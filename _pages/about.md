@@ -56,12 +56,12 @@ My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), in
 
 # Highlights
 
-- *2026.06* China Scholarship Council (CSC) Scholarship
+- 2026.06 China Scholarship Council (CSC) Scholarship
 
-- *2026.06* Outstanding Graduate Student Award, Shaanxi Normal University
+- 2026.06 Outstanding Graduate Student, Shaanxi Normal University
 
-- *2025.12* National Scholarship
+- 2025.12 National Scholarship
 
-- *2025.11* Selected for the "Academic Stars Paper Collection" at the  26th National Academic Congress of Psychology
+- 2025.11 Paper Selected for the "Academic Stars Paper Collection" at the  26th National Academic Congress of Psychology
 
 
