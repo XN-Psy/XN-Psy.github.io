@@ -19,12 +19,11 @@ Hi, I am Ning Xu, a PhD candidate in Sociology at the University of Groningen. M
 
 # Research Interests
 
-My research interests focus on adolescent social development, particularly how peer relationships and social contexts shape adolescents' social behaviors and psychological adjustment. My research areas include:
-
+My research interests focus on adolescent social development, particularly how peer relationships and social contexts shape adolescents' social behaviors and psychological adjustment.
 - **School Bullying**: Bully-defenders;The healthy context paradox.
 - **Peer Relationship**: Examining how peer status, peer clique, friendship networks influence social behaviors and mental health.
 
-My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), integrates neurobiological perspectives with previous research on peer dynamics to further understand adolescent development.
+My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), integrates neurobiological perspectives with previous research on peer dynamics to further understand individual development.
 
 
 <span class='anchor' id='publications'></span>
