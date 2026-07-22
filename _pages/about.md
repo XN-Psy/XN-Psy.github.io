@@ -10,14 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 👋 About Me
 
 Hi, I am Ning Xu, a PhD candidate in Sociology at the University of Groningen. My doctoral research is conducted within the GUTS project under the supervision of [Prof. D.R. Veenstra](https://www.rene-veenstra.nl) ，[Prof. B. Güroğlu](https://797114657922243673.weebly.com/cv.html). and Dr. T. Guthrie.
 
 
 <span class='anchor' id='research'></span>
 
-# Research Interests
+# 💡 Research Interests
 
 My research interests focus on adolescent social development, particularly how peer relationships and social contexts shape adolescents' social behaviors and psychological adjustment.
 - **School Bullying**: Bully-defenders;The healthy context paradox.
@@ -28,7 +28,7 @@ My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), in
 
 <span class='anchor' id='publications'></span>
 
-# Publications
+# 📝 Publications
 
 <sup>*</sup> indicates corresponding author.
 
@@ -53,7 +53,7 @@ My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), in
 
 <span class='anchor' id='highlights'></span>
 
-# Highlights
+# 🎖  Highlights
 
 - 2026.06 China Scholarship Council (CSC) Scholarship
 
