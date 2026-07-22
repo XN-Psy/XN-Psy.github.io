@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ning Xu(许宁)"
+  name             : "Ning Xu"
   avatar           : "images/profile.jpeg"
   bio              : "PhD Candidate"
   location         : "Leiden, Netherlands"
