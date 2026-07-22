@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ning Xu(许宁)"
-description              : "University of Groningen & Leiden University "
+title                    : "Ning Xu（许宁）"
+description              : "University of Groningen"
 repository               : "XN-Psy/XN-Psy.github.io"
 google_scholar_stats_use_cdn : true
 
