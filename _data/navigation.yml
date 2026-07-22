@@ -1,13 +1,13 @@
 main:
 
   - title: "About Me"
-    url: /about/
+    url: /#about-me
 
   - title: "Research"
-    url: /research/
+    url: /#research
 
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Highlights"
-    url: /news/
+    url: /#highlights
