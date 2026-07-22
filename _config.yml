@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ning Xu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Ning Xu(许宁)"
+description              : "University of Groningen & Leiden University "
 repository               : "XN-Psy/XN-Psy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,12 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ning Xu"
+  name             : "Ning Xu(许宁)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Candidate"
-  location         : "Netherlands"
-  employer         :
+  location         : "Leiden, Netherlands"
+  employer         :  
   pubmed           : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-1203-3453"
   googlescholar    : "https://scholar.google.nl/citations?user=w3k5SB8AAAAJ&hl=zh-CN"
   email            : "n.xu@rug.nl"
   researchgate     : "https://www.researchgate.net/profile/Ning-Xu-100?ev=hdr_xprf"
@@ -45,7 +46,6 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-1203-3453"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
