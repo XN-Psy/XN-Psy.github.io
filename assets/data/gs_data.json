@@ -1,0 +1,84 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "w3k5SB8AAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ning Xu",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=w3k5SB8AAAAJ&citpid=10",
+  "affiliation": "格罗宁根大学行为与社会科学学院",
+  "interests": [
+    "青少年社会行为发展"
+  ],
+  "email_domain": "@rug.nl",
+  "citedby": 5,
+  "publications": {
+    "w3k5SB8AAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Breaking the vicious cycle of parental psychological control and depressive symptoms: The roles of individual Self-esteem and peer clique support norms",
+        "pub_year": "2025",
+        "citation": "Journal of Youth and Adolescence 54 (10), 2616-2627, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "w3k5SB8AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4502860595798915084",
+      "cites_id": [
+        "4502860595798915084"
+      ]
+    },
+    "w3k5SB8AAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Do Adolescents of Higher Peer Status Exhibit More Prosocial Behavior? Evidence Based on Individual and Clique Level",
+        "pub_year": "2026",
+        "citation": "Journal of Youth and Adolescence, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "w3k5SB8AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9769184104380976111",
+      "cites_id": [
+        "9769184104380976111"
+      ]
+    },
+    "w3k5SB8AAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Do school bullies defend? The moderating roles of classroom bullying norms and parental autonomy support among Chinese adolescents",
+        "pub_year": "2026",
+        "citation": "BMC psychology, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "w3k5SB8AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    "w3k5SB8AAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identifying Defender Subgroups and Their Classroom Distribution Patterns in Chinese Adolescents: A Social-Ecological Multilevel Latent Profile Analysis",
+        "pub_year": "2026",
+        "citation": "Journal of Youth and Adolescence 55 (1), 184-195, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "w3k5SB8AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 5,
+  "hindex": 1,
+  "hindex5y": 1,
+  "i10index": 0,
+  "i10index5y": 0,
+  "cites_per_year": {},
+  "updated": "2026-08-02T02:20:52.685604+00:00"
+}

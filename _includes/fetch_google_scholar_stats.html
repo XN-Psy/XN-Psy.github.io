@@ -1,26 +1,32 @@
 <script>
   (function () {
     var totalCitationElement = document.getElementById('total_cit');
+    var hIndexElement = document.getElementById('h_index');
     var publicationElements = document.getElementsByClassName('show_paper_citations');
 
-    if (!totalCitationElement && publicationElements.length === 0) return;
+    if (!totalCitationElement && !hIndexElement && publicationElements.length === 0) return;
 
     var repository = '{{ site.repository }}';
     var cdnUrl = 'https://cdn.jsdelivr.net/gh/' + repository + '@google-scholar-stats/gs_data.json';
     var githubUrl = 'https://raw.githubusercontent.com/' + repository + '/google-scholar-stats/gs_data.json';
-    var urls = {% if site.google_scholar_stats_use_cdn %}[cdnUrl, githubUrl]{% else %}[githubUrl, cdnUrl]{% endif %};
+    var localUrl = "{{ '/assets/data/gs_data.json' | relative_url }}";
+    var urls = {% if site.google_scholar_stats_use_cdn %}[cdnUrl, githubUrl, localUrl]{% else %}[githubUrl, cdnUrl, localUrl]{% endif %};
     var dailyCacheKey = new Date().toISOString().slice(0, 10);
 
     function render(data) {
       if (totalCitationElement && data.citedby !== undefined) {
         totalCitationElement.textContent = data.citedby;
       }
+      if (hIndexElement && data.hindex !== undefined) {
+        hIndexElement.textContent = data.hindex;
+      }
 
       Array.prototype.forEach.call(publicationElements, function (element) {
         var paperId = element.getAttribute('data');
         var publication = data.publications && data.publications[paperId];
         if (publication && publication.num_citations !== undefined) {
-          element.textContent = '| Citations: ' + publication.num_citations;
+          element.textContent = ' · Citations: ' + publication.num_citations;
+          element.setAttribute('title', 'Citation count from Google Scholar');
         }
       });
     }

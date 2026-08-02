@@ -35,13 +35,13 @@ My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), in
 
 ## Peer-reviewed Publications
 
-1. **Xu, N.**, Zou, H., Li, C.\*, & Ren, P.\* (2026). Identifying defender subgroups and their classroom distribution patterns in Chinese adolescents: A social-ecological multilevel latent profile analysis. *Journal of Youth and Adolescence, 55*(1), 184–195. <https://doi.org/10.1007/s10964-025-02255-z>
+1. **Xu, N.**, Zou, H., Li, C.\*, & Ren, P.\* (2026). Identifying defender subgroups and their classroom distribution patterns in Chinese adolescents: A social-ecological multilevel latent profile analysis. *Journal of Youth and Adolescence, 55*(1), 184–195. <https://doi.org/10.1007/s10964-025-02255-z><span class="show_paper_citations" data="w3k5SB8AAAAJ:u5HHmVD_uO8C"></span>
 
-2. Zhao, Q.\*, **Xu, N.**, Huang, Y., Fu, R., & Wang, H.\* (2026). Do school bullies defend? The moderating roles of classroom bullying norms and parental autonomy support among Chinese adolescents. *BMC Psychology, 14*, Article 942. <https://doi.org/10.1186/s40359-026-04675-3>
+2. Zhao, Q.\*, **Xu, N.**, Huang, Y., Fu, R., & Wang, H.\* (2026). Do school bullies defend? The moderating roles of classroom bullying norms and parental autonomy support among Chinese adolescents. *BMC Psychology, 14*, Article 942. <https://doi.org/10.1186/s40359-026-04675-3><span class="show_paper_citations" data="w3k5SB8AAAAJ:9yKSN-GCB0IC"></span>
 
-3. Zhang, J., Song, Y., **Xu, N.**, Li, C.\*, & Ren, P.\* (2026). Do adolescents of higher peer status exhibit more prosocial behavior? Evidence based on individual- and clique-level analyses. *Journal of Youth and Adolescence, 55*(2), 356–369. <https://doi.org/10.1007/s10964-025-02308-3>
+3. Zhang, J., Song, Y., **Xu, N.**, Li, C.\*, & Ren, P.\* (2026). Do adolescents of higher peer status exhibit more prosocial behavior? Evidence based on individual- and clique-level analyses. *Journal of Youth and Adolescence, 55*(2), 356–369. <https://doi.org/10.1007/s10964-025-02308-3><span class="show_paper_citations" data="w3k5SB8AAAAJ:d1gkVwhDpl0C"></span>
 
-4. Song, S., **Xu, N.**, Yuan, B., & Li, C.\* (2025). Breaking the vicious cycle of parental psychological control and depressive symptoms: The roles of individual self-esteem and peer clique support norms. *Journal of Youth and Adolescence, 54*(10), 2616–2627. <https://doi.org/10.1007/s10964-025-02210-y>
+4. Song, S., **Xu, N.**, Yuan, B., & Li, C.\* (2025). Breaking the vicious cycle of parental psychological control and depressive symptoms: The roles of individual self-esteem and peer clique support norms. *Journal of Youth and Adolescence, 54*(10), 2616–2627. <https://doi.org/10.1007/s10964-025-02210-y><span class="show_paper_citations" data="w3k5SB8AAAAJ:u-x6o8ySG0sC"></span>
 
 
 ## Conference Presentations
@@ -62,5 +62,4 @@ My PhD research, as part of the  [GUTS project](https://www.gutsproject.com), in
 - 2025.12 National Scholarship
 
 - 2025.11 Paper Selected for the "Academic Stars Paper Collection" at the  26th National Academic Congress of Psychology
-
 
