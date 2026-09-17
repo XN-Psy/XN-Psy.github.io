@@ -24,7 +24,7 @@ Some examples:
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Manually maintained publications**: edit `_pages/about.md` to update the publication list. Google Scholar is available as a profile link only; this repository does not fetch citation statistics or run scheduled Scholar workflows.
 - **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
@@ -33,10 +33,6 @@ Some examples:
 ## Quick Start
 
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the Google Scholar citation crawler:
-    1. Set `GOOGLE_SCHOLAR_ID` in `.github/workflows/google_scholar_crawler.yaml` to the ID from your Scholar profile URL. This repository is already configured with `w3k5SB8AAAAJ`.
-    1. Open the repository's **Actions** tab and run **Sync Google Scholar** once. It will then run automatically every day and publish `gs_data.json` to the `google-scholar-stats` branch.
-    1. Google Scholar may block shared GitHub Actions IP addresses. If direct requests fail, add a repository Actions secret named `SCRAPER_API_KEY`; the crawler will use it automatically.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -48,12 +44,7 @@ Some examples:
     1. More configuration details are described in the comments.
 1. Add your homepage content in `_pages/about.md`.
     1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+    1. Add publications with their authors, year, title, journal, and DOI link. Publication details are maintained manually.
 1. Your page will be published at `https://USERNAME.github.io`.
 
 ## Debug Locally

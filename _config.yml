@@ -9,7 +9,6 @@
 title                    : "Ning Xu（许宁）"
 description              : "University of Groningen"
 repository               : "XN-Psy/XN-Psy.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -66,7 +65,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
